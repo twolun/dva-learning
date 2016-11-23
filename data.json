@@ -1,0 +1,11 @@
+{
+  list: {
+    top: [123, 456],
+    new: [123, 456],
+  },
+  itemsById: {
+    123: { title: 'foo' },
+    456: { title: 'bar' },
+    789: { title: 'wow' },
+  },
+}
